@@ -1,7 +1,7 @@
 package com.cnpc.issue.controller;
 
 /**
- * Created by chao on 2017-11-28.
+ * Created by chao on 2017-10-28.
  */
 public class SampleFactory {
     public static void main(String[] args) {
